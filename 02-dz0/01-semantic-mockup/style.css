@@ -1,0 +1,47 @@
+.header_css {
+    background-color: red;
+}
+
+.font_css {
+    color: white;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+#nav_css {
+    background-color: orange;
+    text-align: center;
+    height: 60px;
+}
+
+a {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+#main_id_css {
+    background-color: green;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+main>article {
+    background-color: blue;
+    margin: 20px;
+    padding: 10px;
+}
+
+li {
+    margin-left: -10px;
+}
+
+.footer_css {
+    font-size: 50px;
+    text-align: center;
+    background-color: purple;
+}
